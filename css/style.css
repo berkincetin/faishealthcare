@@ -122,6 +122,28 @@ section {
 .number-big {
     font-size: 400%;
 }
+
+/* Cover Photo Section */
+
+.cover-photo-section {
+    width: 100%;
+    height: 50vh;
+
+
+    /* Flexbox stuff */
+    position: relative;
+    display:flex;
+    /* Text styles */
+    
+    /* Background styles */
+    background-image:  url("FaisBackground.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+
 /* Contact Section */
 .contact-section {
     padding-bottom: 50px;
