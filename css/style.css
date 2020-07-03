@@ -71,14 +71,37 @@ section {
     /* Text styles */
     
     /* Background styles */
-    background-image:  url("hero-image.jpg");
+    background-image:  url("HeroImage2.jpg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
 }
 
+/* About Section */
+.about-img {
+    width: 100%;
+    height: auto;
+}
+
+/* Team Section */
+.team-section,.about-section {
+    padding-bottom: 100px;
+}
+
 
 /* Services Section */
+.services-section {
+    position: relative;
+    display:flex;
+    /* Text styles */
+    height: 750px;
+    /* Background styles */
+    color: #fff;
+    background: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),  url("ServicesBackground.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
 
 .parent {
     display: grid;
@@ -136,7 +159,7 @@ section {
     /* Text styles */
     
     /* Background styles */
-    background-image:  url("FaisBackground.jpg");
+    background-image:  url("CoverSection.jpg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
