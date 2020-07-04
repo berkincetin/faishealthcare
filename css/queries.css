@@ -22,10 +22,14 @@
 
 
 @media screen and (max-width : 769px) {
+
     section {
         padding-left: 30px;
         padding-right: 30px;
         text-align: center;
+    }
+    .landing-section {
+        height: 700px;
     }
     .header-container {
         width: 100%;
