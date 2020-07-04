@@ -45,6 +45,15 @@ p {
     font-size: 120%;
 }
 
+h1:after {
+    display: block;
+    height: 2px;
+    background-color: var(--clr-primary);
+    content: '';
+    width: 100px;
+    margin: 0 auto;
+    margin-top: 30px;
+}
 /*********************************** Functionality and Features*************************************************************/
 /* Scroll Feature */
 
@@ -127,7 +136,7 @@ p {
     /* Text styles */
     
     /* Background styles */
-    background-image:  url("HeroImage2.jpg");
+    background-image:  url("https://res.cloudinary.com/berkindesign/image/upload/v1593823908/HeroImage2-min_sgusag.jpg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
