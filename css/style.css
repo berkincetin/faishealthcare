@@ -161,7 +161,7 @@ h1:after {
     /* Text styles */
     /* Background styles */
     color: #fff;
-    background: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.8)),  url("ServicesBackground.jpg");
+    background: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.8)),  url("https://res.cloudinary.com/berkindesign/image/upload/v1593824168/ServicesBackground-min_loq4iy.jpg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -215,7 +215,7 @@ h1:after {
     /* Text styles */
     
     /* Background styles */
-    background-image:  url("CoverSection.jpg");
+    background-image:  url("https://res.cloudinary.com/berkindesign/image/upload/v1593824169/CoverSection-min_w6zbej.jpg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
