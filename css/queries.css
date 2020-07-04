@@ -27,11 +27,18 @@
         height: 70vh;
 
     }
+    .team-img {
+        margin-bottom: 50px;
+    }
+    .experience-section {
+        font-size: 80%;
+    }
 }
 @media screen and (max-width: 420px) {
     .nav-link {
         padding: 5px;
         font-size: 90%;
     }
+
 
 }

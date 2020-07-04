@@ -143,7 +143,7 @@ h1:after {
 }
 
 /* About Section */
-.about-img {
+.about-img,.team-img {
     width: 100%;
     height: auto;
 }
@@ -181,23 +181,11 @@ h1:after {
 /* Experience Section */
 .experience-section {
     background-color: var(--clr-primary);
-    height: 150px;
     color: #fff;
-    padding: 0;
+    padding: 20px;
 }
 
-.experience-parent {
-    display: grid;
-    grid-template-columns: repeat(5, 1fr);
-    grid-template-rows: repeat(5, 1fr);
-    grid-column-gap: 0px;
-    grid-row-gap: 0px;
-    }
-    
-    .experience-div1 { grid-area: 1 / 1 / 2 / 2; }
-    .experience-div2 { grid-area: 1 / 2 / 2 / 3; }
-    .experience-div3 { grid-area: 1 / 3 / 2 / 4; }
-    .experience-div4 { grid-area: 1 / 4 / 2 / 5; }
+
 .number-big {
     font-size: 400%;
 }
