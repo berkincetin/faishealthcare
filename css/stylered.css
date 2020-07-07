@@ -108,6 +108,14 @@ h1:after {
 .header-container {
     padding: 10px 0;
 }
+a.phone-link {
+    text-decoration: none;
+    padding-bottom: 5px;
+    color: inherit;
+}
+a.phone-link:hover {
+    border-bottom: 1px solid var(--clr-accent);
+}
 .nav {
     background-color: rgb(241, 240, 240);
     color: #000;
