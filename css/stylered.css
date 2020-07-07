@@ -91,7 +91,7 @@ h1:after {
     transition: all 0.3s ease;
   }
   #return-to-top:hover {
-    background: rgb(24,97,175);
+    background-color: var(--clr-accent)
   }
   #return-to-top:hover i {
     color: #fff;
