@@ -11,8 +11,8 @@
     --fw-bold: 900;
 
     --clr-light: #fff;
-    --clr-primary: #209CEE;
-    --clr-accent: #FA4F00;
+    --clr-primary: #CC0033;
+    --clr-accent: #339933;
     --cl-dark: #000;
     --clr-offgrey: rgb(89, 103, 109);
     
@@ -255,7 +255,7 @@ margin-right: 5px;
 }
 .contact-btn:hover{
     color: #fff;
-    background-color:rgb(8, 94, 175);
+    background-color: rgb(180, 0, 45);
 
 }
 
