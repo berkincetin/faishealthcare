@@ -99,11 +99,22 @@
             height: 150px;
         }
 }
+
+@media screen and (max-width: 500px) {
+    .cover-photo-section {
+        display: none;
+        }
+        .about-section {
+            padding-bottom: 0;
+        }
+      
+}
 @media screen and (max-width: 420px) {
     .nav-link {
         padding: 5px;
         font-size: 90%;
     }
+
 
 
 }
