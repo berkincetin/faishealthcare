@@ -35,6 +35,7 @@ body {
 }
 
 a {
+    color: inherit;
     text-decoration: none;
 }
 
@@ -263,5 +264,9 @@ footer {
     background-color: rgb(241, 240, 240);
     padding: 10px;
     font-size: 80%;
+    color: #000;
 
+}
+.footer-link {
+    border: 1px solid red;
 }
